@@ -1,0 +1,30 @@
+.right{
+    float: right;
+}
+.inline {
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+#navbar {
+    background-color: #101010;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-bottom: 2px solid rgba(255,255,255,.6);
+}
+#navbar h1{
+    font-size: 2rem;
+}
+#navbar ul{
+    margin: 30px 0px;
+}
+#navbar ul li{
+    margin-right: 30px;
+}
+.white{
+    color: white;
+}
